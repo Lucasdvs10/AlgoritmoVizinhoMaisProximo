@@ -17,4 +17,10 @@ Parte 2 - www.youtube.com/watch?v=Lo89NLmSgl0
 
 Parte 3 - https://www.youtube.com/watch?v=aMtckmWAzDg
 
+Como funciona: 
+
+O programa te pergunta que nota você dá para determinado filme. Caso você tenha assistido ao filme, dê uma nota de 0 a 5, caso nunca tenha visto o filme, apenas aperte enter.
+
+Ele tentará prever que nota você daria para os filmes que você não viu
+
 - Lucas Duez
