@@ -10,8 +10,11 @@ Nesse caso, que estou tentando prever as notas dos filmes que o input não viu, 
 filme.
 
 Esse exercício, eu retirei do canal The Coding Train:
+
 Parte 1 - www.youtube.com/watch?v=N8Fabn1om2k
+
 Parte 2 - www.youtube.com/watch?v=Lo89NLmSgl0
+
 Parte 3 - https://www.youtube.com/watch?v=aMtckmWAzDg
 
 - Lucas Duez
